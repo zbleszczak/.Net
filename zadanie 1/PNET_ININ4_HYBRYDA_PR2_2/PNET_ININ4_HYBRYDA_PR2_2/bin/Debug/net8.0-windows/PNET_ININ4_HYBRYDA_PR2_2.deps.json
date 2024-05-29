@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PNET_ININ4_HYBRYDA_PR2_2/1.0.0": {
+        "runtime": {
+          "PNET_ININ4_HYBRYDA_PR2_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PNET_ININ4_HYBRYDA_PR2_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
